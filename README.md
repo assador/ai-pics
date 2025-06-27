@@ -1,2 +1,2 @@
 # ai-pics
-AI generated images
+Art with AI generated images.
